@@ -1,6 +1,6 @@
 HTML-project
 ============
-<!DOCTYPE>
+<!DOCTYPE html>
     <html/>
     <head>My Hobbie</head>
     <title> HTML project </title>
